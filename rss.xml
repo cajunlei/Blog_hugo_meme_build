@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>雷雷笔记</title>
+        <link>https://example.com/</link>
+        <description>个人笔记，用于记录学习工作。</description>
+        <generator>Hugo 0.105.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>i@ll.sc.cn (守正)</managingEditor>
+        
+        
+            <webMaster>i@ll.sc.cn (守正)</webMaster>
+        
+        
+            <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+        
+        <lastBuildDate>Mon, 14 Nov 2022 07:56:52 &#43;0000</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>各工种施工流程</title>
+                <link>https://example.com/posts/129a/</link>
+                <guid isPermaLink="true">https://example.com/posts/129a/</guid>
+                <pubDate>Sun, 13 Nov 2022 13:59:52 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>瓦工 定标高 以入户门下框压（往上）10mm为客厅地面完成面； 铺木地板地面找平高度比确定</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E8%A3%85%E4%BF%AE/">装修</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%96%BD%E5%B7%A5/">施工</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>电气知识</title>
+                <link>https://example.com/posts/b869/</link>
+                <guid isPermaLink="true">https://example.com/posts/b869/</guid>
+                <pubDate>Sat, 12 Nov 2022 19:09:35 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>电路 管类解释 代号 标注说明 代号 标注说明 代号 标注说明 SC 焊接钢管 JDG 紧定式钢管 PC 硬阻燃塑料管</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E7%94%B5%E6%B0%94/">电气</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>德昌丨凤安里（售楼部）</title>
+                <link>https://example.com/posts/9ce5/</link>
+                <guid isPermaLink="true">https://example.com/posts/9ce5/</guid>
+                <pubDate>Sat, 12 Nov 2022 18:46:03 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>竣工图修改 2022年 11月12日 电气图 售楼部： 系统图从原始图纸复制，原竣工图只有深化</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E5%B7%A5%E4%BD%9C/">工作</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E5%94%AE%E6%A5%BC%E9%83%A8/">售楼部</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E5%8D%83%E5%B1%85%E7%BD%AE%E4%BF%A1/">千居置信</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>2022年终总结</title>
+                <link>https://example.com/posts/e27c/</link>
+                <guid isPermaLink="true">https://example.com/posts/e27c/</guid>
+                <pubDate>Fri, 11 Nov 2022 18:03:02 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>年终总结 尊敬的各位领导、各位同事： 大家上午好！我是成本部的雷相君，辞旧迎新，我们告别</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E5%B7%A5%E4%BD%9C/">工作</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%80%BB%E7%BB%93/">总结</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>水电</title>
+                <link>https://example.com/posts/6c6f/</link>
+                <guid isPermaLink="true">https://example.com/posts/6c6f/</guid>
+                <pubDate>Fri, 11 Nov 2022 14:00:01 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是120-150W/平米</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E8%A3%85%E4%BF%AE/">装修</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%B0%B4%E7%94%B5/">水电</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>WPS模板路径</title>
+                <link>https://example.com/posts/66b1/</link>
+                <guid isPermaLink="true">https://example.com/posts/66b1/</guid>
+                <pubDate>Sat, 14 May 2022 09:39:51 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>WPS文档模板文件位置： C:\Users\Cajun\AppData\Roaming\kingsoft\office6\templates\wps\zh_CN 设置模板文件样式，可以每次新建空白文档就有的样式，省去重复</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/wps/">WPS</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>更新博客</title>
+                <link>https://example.com/posts/2736/</link>
+                <guid isPermaLink="true">https://example.com/posts/2736/</guid>
+                <pubDate>Wed, 12 Jan 2022 14:55:23 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>更新博客 确保cdn链接正确 确保ImageBed文件夹位置正确 更新iconfont的j</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>零碎</title>
+                <link>https://example.com/posts/5e1c/</link>
+                <guid isPermaLink="true">https://example.com/posts/5e1c/</guid>
+                <pubDate>Wed, 12 Jan 2022 14:55:07 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>三尺讲台育桃李；一支粉笔写春秋。 mongodb+srv://cajun:zVmYnBkA095HISsg@realmcluster.qhlsk.mongodb.net/myFirstDatabase?retryWrites=true&amp;amp;w=majority WMYX Twikoo axij7egz7JuWjNAF</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>GTD时间管理</title>
+                <link>https://example.com/posts/19b7/</link>
+                <guid isPermaLink="true">https://example.com/posts/19b7/</guid>
+                <pubDate>Wed, 12 Jan 2022 14:44:10 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/">时间管理</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>2019年终总结</title>
+                <link>https://example.com/posts/6a65/</link>
+                <guid isPermaLink="true">https://example.com/posts/6a65/</guid>
+                <pubDate>Wed, 12 Jan 2022 14:00:03 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>2019年终总结 仿佛昨天还在提醒我写日期的时候不要写成2018年了，一回神2019年</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E5%B7%A5%E4%BD%9C/">工作</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E6%80%BB%E7%BB%93/">总结</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
