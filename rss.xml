@@ -9,7 +9,7 @@
     <channel>
         <title>雷雷笔记</title>
         <link>https://example.com/</link>
-        <description>个人笔记，用于记录学习工作。</description>
+        <description>个人笔记，用于记录生活、学习、工作。</description>
         <generator>Hugo 0.105.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,10 +23,39 @@
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Mon, 14 Nov 2022 07:56:52 &#43;0000</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 10:55:32 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>三十而立？</title>
+                <link>https://example.com/posts/631d/</link>
+                <guid isPermaLink="true">https://example.com/posts/631d/</guid>
+                <pubDate>Tue, 15 Nov 2022 09:08:32 &#43;0800</pubDate>
+                
+                
+                <description>“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>各工种施工流程</title>
@@ -37,7 +66,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>瓦工 定标高 以入户门下框压（往上）10mm为客厅地面完成面； 铺木地板地面找平高度比确定</description>
+                <description>瓦工 定标高 以入户门下框压（往上） 10mm 为客厅地面完成面； 铺木地板地面找平高度比确定的完成</description>
                 
                 
                 
@@ -88,7 +117,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+                                    <category domain="https://example.com/categories/%E8%A3%85%E4%BF%AE/">装修</category>
                                 
                             
                         
@@ -115,7 +144,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>竣工图修改 2022年 11月12日 电气图 售楼部： 系统图从原始图纸复制，原竣工图只有深化</description>
+                <description>竣工图修改 2022年11月12日 电气图 售楼部： 系统图从原始图纸复制，原竣工图只有深化</description>
                 
                 
                 
@@ -152,29 +181,21 @@
             </item>
         
             <item>
-                <title>2022年终总结</title>
-                <link>https://example.com/posts/e27c/</link>
-                <guid isPermaLink="true">https://example.com/posts/e27c/</guid>
+                <title>2021年终工作总结</title>
+                <link>https://example.com/posts/f2ec/</link>
+                <guid isPermaLink="true">https://example.com/posts/f2ec/</guid>
                 <pubDate>Fri, 11 Nov 2022 18:03:02 &#43;0000</pubDate>
                 
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>年终总结 尊敬的各位领导、各位同事： 大家上午好！我是成本部的雷相君，辞旧迎新，我们告别</description>
+                <description>尊敬的各位领导、各位同事： 大家上午好！我是成本部的雷相君，辞旧迎新，我们告别丰收的2</description>
                 
                 
                 
                 
                 
                     
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/categories/%E5%B7%A5%E4%BD%9C/">工作</category>
-                                
-                            
                         
                     
                         
@@ -191,15 +212,15 @@
             </item>
         
             <item>
-                <title>水电</title>
-                <link>https://example.com/posts/6c6f/</link>
-                <guid isPermaLink="true">https://example.com/posts/6c6f/</guid>
+                <title>水电专业笔记</title>
+                <link>https://example.com/posts/e431/</link>
+                <guid isPermaLink="true">https://example.com/posts/e431/</guid>
                 <pubDate>Fri, 11 Nov 2022 14:00:01 &#43;0000</pubDate>
                 
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是120-150W/平米</description>
+                <description>安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是 120-150W /平米； 空开： 即空气</description>
                 
                 
                 
@@ -230,15 +251,15 @@
             </item>
         
             <item>
-                <title>WPS模板路径</title>
-                <link>https://example.com/posts/66b1/</link>
-                <guid isPermaLink="true">https://example.com/posts/66b1/</guid>
+                <title>杂七杂八</title>
+                <link>https://example.com/posts/1e48/</link>
+                <guid isPermaLink="true">https://example.com/posts/1e48/</guid>
                 <pubDate>Sat, 14 May 2022 09:39:51 &#43;0000</pubDate>
                 
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>WPS文档模板文件位置： C:\Users\Cajun\AppData\Roaming\kingsoft\office6\templates\wps\zh_CN 设置模板文件样式，可以每次新建空白文档就有的样式，省去重复</description>
+                <description>Blog文件解压说明 解压密码：ll.sc.cn 使用教程：https://ll.sc.</description>
                 
                 
                 
@@ -269,46 +290,15 @@
             </item>
         
             <item>
-                <title>更新博客</title>
-                <link>https://example.com/posts/2736/</link>
-                <guid isPermaLink="true">https://example.com/posts/2736/</guid>
+                <title>Git命令笔记</title>
+                <link>https://example.com/posts/183c/</link>
+                <guid isPermaLink="true">https://example.com/posts/183c/</guid>
                 <pubDate>Wed, 12 Jan 2022 14:55:23 &#43;0000</pubDate>
                 
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>更新博客 确保cdn链接正确 确保ImageBed文件夹位置正确 更新iconfont的j</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/categories/%E5%8D%9A%E5%AE%A2/">博客</category>
-                                
-                            
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>零碎</title>
-                <link>https://example.com/posts/5e1c/</link>
-                <guid isPermaLink="true">https://example.com/posts/5e1c/</guid>
-                <pubDate>Wed, 12 Jan 2022 14:55:07 &#43;0000</pubDate>
-                
-                    <author>i@ll.sc.cn (守正)</author>
-                
-                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>三尺讲台育桃李；一支粉笔写春秋。 mongodb+srv://cajun:zVmYnBkA095HISsg@realmcluster.qhlsk.mongodb.net/myFirstDatabase?retryWrites=true&amp;amp;w=majority WMYX Twikoo axij7egz7JuWjNAF</description>
+                <description>进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入</description>
                 
                 
                 
@@ -370,29 +360,21 @@
             </item>
         
             <item>
-                <title>2019年终总结</title>
-                <link>https://example.com/posts/6a65/</link>
-                <guid isPermaLink="true">https://example.com/posts/6a65/</guid>
+                <title>2019年终工作总结</title>
+                <link>https://example.com/posts/a04a/</link>
+                <guid isPermaLink="true">https://example.com/posts/a04a/</guid>
                 <pubDate>Wed, 12 Jan 2022 14:00:03 &#43;0000</pubDate>
                 
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>2019年终总结 仿佛昨天还在提醒我写日期的时候不要写成2018年了，一回神2019年</description>
+                <description>仿佛昨天还在提醒我写日期的时候不要写成2018年了，一回神2019年将离我们而去，即</description>
                 
                 
                 
                 
                 
                     
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://example.com/categories/%E5%B7%A5%E4%BD%9C/">工作</category>
-                                
-                            
                         
                     
                         
