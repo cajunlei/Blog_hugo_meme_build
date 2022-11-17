@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">雷雷笔记</title>
     <subtitle type="html">个人笔记，用于记录生活、学习、工作。</subtitle>
-    <updated>2022-11-17T10:31:39&#43;00:00</updated>
+    <updated>2022-11-17T12:22:30&#43;00:00</updated>
     <id>https://hugo.ll.sc.cn/</id>
     <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/" />
     <link rel="self" type="application/atom&#43;xml" href="https://hugo.ll.sc.cn/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">三十而立？</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/37c5/" />
             <id>https://hugo.ll.sc.cn/posts/37c5/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
             <published>2022-11-15T09:08:32&#43;08:00</published>
             <author>
                     <name>守正</name>
@@ -94,7 +94,7 @@
             <title type="text">电气知识</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/b869/" />
             <id>https://hugo.ll.sc.cn/posts/b869/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
             <published>2022-11-12T19:09:35&#43;00:00</published>
             <author>
                     <name>守正</name>
@@ -124,86 +124,6 @@
                             
                             
                                 <category scheme="https://hugo.ll.sc.cn/tags/%E7%94%B5%E6%B0%94/" term="电气" label="电气" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">德昌丨凤安里（售楼部）</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/9ce5/" />
-            <id>https://hugo.ll.sc.cn/posts/9ce5/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
-            <published>2022-11-12T18:46:03&#43;00:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">竣工图修改 2022年11月12日 电气图 售楼部： 系统图从原始图纸复制，原竣工图只有深化</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/categories/%E5%B7%A5%E4%BD%9C/" term="工作" label="工作" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/tags/%E5%94%AE%E6%A5%BC%E9%83%A8/" term="售楼部" label="售楼部" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/tags/%E5%8D%83%E5%B1%85%E7%BD%AE%E4%BF%A1/" term="千居置信" label="千居置信" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">2021年终工作总结</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/f2ec/" />
-            <id>https://hugo.ll.sc.cn/posts/f2ec/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
-            <published>2022-11-11T18:03:02&#43;00:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">尊敬的各位领导、各位同事： 大家上午好！我是成本部的雷相君，辞旧迎新，我们告别丰收的2</summary>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
                             
                         
                     
@@ -253,51 +173,10 @@
         </entry>
     
         <entry>
-            <title type="text">杂七杂八</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/1e48/" />
-            <id>https://hugo.ll.sc.cn/posts/1e48/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
-            <published>2022-05-14T09:39:51&#43;00:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">Blog文件解压说明 解压密码：ll.sc.cn 使用教程：https://ll.sc.</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/tags/wps/" term="WPS" label="WPS" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
             <title type="text">Git命令笔记</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/183c/" />
             <id>https://hugo.ll.sc.cn/posts/183c/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
             <published>2022-01-12T14:55:23&#43;00:00</published>
             <author>
                     <name>守正</name>
@@ -330,7 +209,7 @@
             <title type="text">GTD时间管理</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/19b7/" />
             <id>https://hugo.ll.sc.cn/posts/19b7/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
             <published>2022-01-12T14:44:10&#43;00:00</published>
             <author>
                     <name>守正</name>
@@ -368,17 +247,17 @@
         </entry>
     
         <entry>
-            <title type="text">2019年终工作总结</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/a04a/" />
-            <id>https://hugo.ll.sc.cn/posts/a04a/</id>
-            <updated>2022-11-17T10:31:36&#43;00:00</updated>
+            <title type="text">2021年终个人总结</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/3117/" />
+            <id>https://hugo.ll.sc.cn/posts/3117/</id>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
             <published>2022-01-12T14:00:03&#43;00:00</published>
             <author>
                     <name>守正</name>
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">仿佛昨天还在提醒我写日期的时候不要写成2018年了，一回神2019年将离我们而去，即</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">2021总结 工作 对于我的工作似乎已经没有准确的定义了，从设计狗变成了施工狗？变了，好</summary>
             
             
             
@@ -393,6 +272,86 @@
                             
                             
                                 <category scheme="https://hugo.ll.sc.cn/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E8%AE%A1%E5%88%92/" term="计划" label="计划" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">我的五年规划-模板</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/c02f/" />
+            <id>https://hugo.ll.sc.cn/posts/c02f/</id>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <published>2022-01-12T14:00:03&#43;00:00</published>
+            <author>
+                    <name>守正</name>
+                    <uri>https://ll.sc.cn</uri>
+                    <email>i@ll.sc.cn</email>
+                    </author>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">我的五年规划 我五年后的目标是: 为此作如下规划 我的SWOT分析 我的优势: 我的不足: 存在</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">我的装机软件推荐</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/897a/" />
+            <id>https://hugo.ll.sc.cn/posts/897a/</id>
+            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <published>2022-01-12T14:00:03&#43;00:00</published>
+            <author>
+                    <name>守正</name>
+                    <uri>https://ll.sc.cn</uri>
+                    <email>i@ll.sc.cn</email>
+                    </author>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">Everything Windows平台上的一款完全免费且高效的文件搜索软件； 在输入搜索内容的瞬间即展示</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/categories/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87/" term="装机必备" label="装机必备" />
                             
                         
                     
