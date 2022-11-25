@@ -10,7 +10,7 @@
         <title>雷雷笔记</title>
         <link>https://hugo.ll.sc.cn/</link>
         <description>个人笔记，用于记录生活、学习、工作。</description>
-        <generator>Hugo 0.105.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.107.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,10 +23,39 @@
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Thu, 17 Nov 2022 12:22:30 &#43;0000</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 06:59:06 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://hugo.ll.sc.cn/rss.xml" />
         
+        
+            <item>
+                <title>异地恋</title>
+                <link>https://hugo.ll.sc.cn/posts/947e/</link>
+                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/947e/</guid>
+                <pubDate>Tue, 22 Nov 2022 10:05:57 &#43;0800</pubDate>
+                
+                
+                <description>谈恋爱就应该经历一下异地恋，体验一下欣喜忧愁无人分享，欢笑落泪不能拥，抱着手机、隔着……</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/categories/%E6%91%98%E5%BD%95/">摘录</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>三十而立？</title>
@@ -37,7 +66,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，</description>
+                <description>“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，……</description>
                 
                 
                 
@@ -68,7 +97,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>瓦工 定标高 以入户门下框压（往上） 10mm 为客厅地面完成面； 铺木地板地面找平高度比确定的完成</description>
+                <description>瓦工 定标高 以入户门下框压（往上） 10mm 为客厅地面完成面； 铺木地板地面找平高度比确定的完成……</description>
                 
                 
                 
@@ -107,7 +136,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>电路 管类解释 代号 标注说明 代号 标注说明 代号 标注说明 SC 焊接钢管 JDG 紧定式钢管 PC 硬阻燃塑料管</description>
+                <description>电路 管类解释 代号 标注说明 代号 标注说明 代号 标注说明 SC 焊接钢管 JDG 紧定式钢管 PC 硬阻燃塑料管……</description>
                 
                 
                 
@@ -146,7 +175,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是 120-150W /平米； 空开： 即空气</description>
+                <description>安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是 120-150W /平米； 空开： 即空气……</description>
                 
                 
                 
@@ -185,7 +214,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入</description>
+                <description>进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入……</description>
                 
                 
                 
@@ -216,7 +245,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox</description>
+                <description>GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox……</description>
                 
                 
                 
@@ -255,7 +284,7 @@
                     <author>i@ll.sc.cn (守正)</author>
                 
                 <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>2021总结 工作 对于我的工作似乎已经没有准确的定义了，从设计狗变成了施工狗？变了，好</description>
+                <description>2021总结 工作 对于我的工作似乎已经没有准确的定义了，从设计狗变成了施工狗？变了，好……</description>
                 
                 
                 
@@ -276,76 +305,6 @@
                                 
                                 
                                     <category domain="https://hugo.ll.sc.cn/tags/%E8%AE%A1%E5%88%92/">计划</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>我的五年规划-模板</title>
-                <link>https://hugo.ll.sc.cn/posts/c02f/</link>
-                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/c02f/</guid>
-                <pubDate>Wed, 12 Jan 2022 14:00:03 &#43;0000</pubDate>
-                
-                    <author>i@ll.sc.cn (守正)</author>
-                
-                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>我的五年规划 我五年后的目标是: 为此作如下规划 我的SWOT分析 我的优势: 我的不足: 存在</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-                                
-                            
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>我的装机软件推荐</title>
-                <link>https://hugo.ll.sc.cn/posts/897a/</link>
-                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/897a/</guid>
-                <pubDate>Wed, 12 Jan 2022 14:00:03 &#43;0000</pubDate>
-                
-                    <author>i@ll.sc.cn (守正)</author>
-                
-                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>Everything Windows平台上的一款完全免费且高效的文件搜索软件； 在输入搜索内容的瞬间即展示</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://hugo.ll.sc.cn/categories/%E8%BD%AF%E4%BB%B6/">软件</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://hugo.ll.sc.cn/tags/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87/">装机必备</category>
                                 
                             
                         

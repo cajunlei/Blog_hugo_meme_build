@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">雷雷笔记</title>
     <subtitle type="html">个人笔记，用于记录生活、学习、工作。</subtitle>
-    <updated>2022-11-17T12:22:30&#43;00:00</updated>
+    <updated>2022-11-25T06:59:06&#43;00:00</updated>
     <id>https://hugo.ll.sc.cn/</id>
     <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/" />
     <link rel="self" type="application/atom&#43;xml" href="https://hugo.ll.sc.cn/atom.xml" />
@@ -15,19 +15,48 @@
                 <email>i@ll.sc.cn</email>
             </author>
     <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
-    <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.107.0">Hugo</generator>
+        <entry>
+            <title type="text">异地恋</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/947e/" />
+            <id>https://hugo.ll.sc.cn/posts/947e/</id>
+            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <published>2022-11-22T10:05:57&#43;08:00</published>
+            
+            <summary type="html">谈恋爱就应该经历一下异地恋，体验一下欣喜忧愁无人分享，欢笑落泪不能拥，抱着手机、隔着……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/categories/%E6%91%98%E5%BD%95/" term="摘录" label="摘录" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">三十而立？</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/37c5/" />
             <id>https://hugo.ll.sc.cn/posts/37c5/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <updated>2022-11-25T06:59:04&#43;00:00</updated>
             <published>2022-11-15T09:08:32&#43;08:00</published>
             <author>
                     <name>守正</name>
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">“吾十有五而志于学，三十而立，四十而不惑，五十而知天命，六十而耳顺，七十而从心所欲，……</summary>
             
             
             
@@ -60,7 +89,7 @@
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">瓦工 定标高 以入户门下框压（往上） 10mm 为客厅地面完成面； 铺木地板地面找平高度比确定的完成</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">瓦工 定标高 以入户门下框压（往上） 10mm 为客厅地面完成面； 铺木地板地面找平高度比确定的完成……</summary>
             
             
             
@@ -94,14 +123,14 @@
             <title type="text">电气知识</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/b869/" />
             <id>https://hugo.ll.sc.cn/posts/b869/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <updated>2022-11-25T06:59:04&#43;00:00</updated>
             <published>2022-11-12T19:09:35&#43;00:00</published>
             <author>
                     <name>守正</name>
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">电路 管类解释 代号 标注说明 代号 标注说明 代号 标注说明 SC 焊接钢管 JDG 紧定式钢管 PC 硬阻燃塑料管</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">电路 管类解释 代号 标注说明 代号 标注说明 代号 标注说明 SC 焊接钢管 JDG 紧定式钢管 PC 硬阻燃塑料管……</summary>
             
             
             
@@ -142,7 +171,7 @@
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是 120-150W /平米； 空开： 即空气</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">安装部分 强电 入户至电箱中间的线不能接头； 电地暖通常的设计标准是 120-150W /平米； 空开： 即空气……</summary>
             
             
             
@@ -176,14 +205,14 @@
             <title type="text">Git命令笔记</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/183c/" />
             <id>https://hugo.ll.sc.cn/posts/183c/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <updated>2022-11-25T06:59:04&#43;00:00</updated>
             <published>2022-01-12T14:55:23&#43;00:00</published>
             <author>
                     <name>守正</name>
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入……</summary>
             
             
             
@@ -209,14 +238,14 @@
             <title type="text">GTD时间管理</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/19b7/" />
             <id>https://hugo.ll.sc.cn/posts/19b7/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <updated>2022-11-25T06:59:04&#43;00:00</updated>
             <published>2022-01-12T14:44:10&#43;00:00</published>
             <author>
                     <name>守正</name>
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox……</summary>
             
             
             
@@ -250,14 +279,14 @@
             <title type="text">2021年终个人总结</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/3117/" />
             <id>https://hugo.ll.sc.cn/posts/3117/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
+            <updated>2022-11-25T06:59:04&#43;00:00</updated>
             <published>2022-01-12T14:00:03&#43;00:00</published>
             <author>
                     <name>守正</name>
                     <uri>https://ll.sc.cn</uri>
                     <email>i@ll.sc.cn</email>
                     </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">2021总结 工作 对于我的工作似乎已经没有准确的定义了，从设计狗变成了施工狗？变了，好</summary>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">2021总结 工作 对于我的工作似乎已经没有准确的定义了，从设计狗变成了施工狗？变了，好……</summary>
             
             
             
@@ -278,80 +307,6 @@
                             
                             
                                 <category scheme="https://hugo.ll.sc.cn/tags/%E8%AE%A1%E5%88%92/" term="计划" label="计划" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">我的五年规划-模板</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/c02f/" />
-            <id>https://hugo.ll.sc.cn/posts/c02f/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
-            <published>2022-01-12T14:00:03&#43;00:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">我的五年规划 我五年后的目标是: 为此作如下规划 我的SWOT分析 我的优势: 我的不足: 存在</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">我的装机软件推荐</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/897a/" />
-            <id>https://hugo.ll.sc.cn/posts/897a/</id>
-            <updated>2022-11-17T12:22:28&#43;00:00</updated>
-            <published>2022-01-12T14:00:03&#43;00:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">Everything Windows平台上的一款完全免费且高效的文件搜索软件； 在输入搜索内容的瞬间即展示</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/categories/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/tags/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87/" term="装机必备" label="装机必备" />
                             
                         
                     
