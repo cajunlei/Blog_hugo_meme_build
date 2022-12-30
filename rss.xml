@@ -10,7 +10,7 @@
         <title>雷雷笔记</title>
         <link>https://hugo.ll.sc.cn/</link>
         <description>个人笔记，用于记录生活、学习、工作。</description>
-        <generator>Hugo 0.107.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.109.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,10 +23,55 @@
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Fri, 25 Nov 2022 06:59:06 &#43;0000</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 03:04:50 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://hugo.ll.sc.cn/rss.xml" />
         
+        
+            <item>
+                <title>我感染奥密克戎的这些天</title>
+                <link>https://hugo.ll.sc.cn/posts/2410/</link>
+                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/2410/</guid>
+                <pubDate>Tue, 20 Dec 2022 09:08:32 &#43;0000</pubDate>
+                
+                    <author>i@ll.sc.cn (守正)</author>
+                
+                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+                <description>第一天：2022年12月19日 早上醒来感觉嘴巴里天花板有些不舒服，像黏的啥东西在，口……</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/tags/%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E/">奥密克戎</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/tags/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92/">新冠病毒</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>异地恋</title>

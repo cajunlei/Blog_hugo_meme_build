@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">雷雷笔记</title>
     <subtitle type="html">个人笔记，用于记录生活、学习、工作。</subtitle>
-    <updated>2022-11-25T06:59:06&#43;00:00</updated>
+    <updated>2022-12-30T03:04:50&#43;00:00</updated>
     <id>https://hugo.ll.sc.cn/</id>
     <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/" />
     <link rel="self" type="application/atom&#43;xml" href="https://hugo.ll.sc.cn/atom.xml" />
@@ -15,12 +15,59 @@
                 <email>i@ll.sc.cn</email>
             </author>
     <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
-    <generator uri="https://gohugo.io/" version="0.107.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+        <entry>
+            <title type="text">我感染奥密克戎的这些天</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/2410/" />
+            <id>https://hugo.ll.sc.cn/posts/2410/</id>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
+            <published>2022-12-20T09:08:32&#43;00:00</published>
+            <author>
+                    <name>守正</name>
+                    <uri>https://ll.sc.cn</uri>
+                    <email>i@ll.sc.cn</email>
+                    </author>
+            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">第一天：2022年12月19日 早上醒来感觉嘴巴里天花板有些不舒服，像黏的啥东西在，口……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/categories/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E/" term="奥密克戎" label="奥密克戎" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92/" term="新冠病毒" label="新冠病毒" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">异地恋</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/947e/" />
             <id>https://hugo.ll.sc.cn/posts/947e/</id>
-            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
             <published>2022-11-22T10:05:57&#43;08:00</published>
             
             <summary type="html">谈恋爱就应该经历一下异地恋，体验一下欣喜忧愁无人分享，欢笑落泪不能拥，抱着手机、隔着……</summary>
@@ -49,7 +96,7 @@
             <title type="text">三十而立？</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/37c5/" />
             <id>https://hugo.ll.sc.cn/posts/37c5/</id>
-            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
             <published>2022-11-15T09:08:32&#43;08:00</published>
             <author>
                     <name>守正</name>
@@ -123,7 +170,7 @@
             <title type="text">电气知识</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/b869/" />
             <id>https://hugo.ll.sc.cn/posts/b869/</id>
-            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
             <published>2022-11-12T19:09:35&#43;00:00</published>
             <author>
                     <name>守正</name>
@@ -205,7 +252,7 @@
             <title type="text">Git命令笔记</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/183c/" />
             <id>https://hugo.ll.sc.cn/posts/183c/</id>
-            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
             <published>2022-01-12T14:55:23&#43;00:00</published>
             <author>
                     <name>守正</name>
@@ -238,7 +285,7 @@
             <title type="text">GTD时间管理</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/19b7/" />
             <id>https://hugo.ll.sc.cn/posts/19b7/</id>
-            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
             <published>2022-01-12T14:44:10&#43;00:00</published>
             <author>
                     <name>守正</name>
@@ -279,7 +326,7 @@
             <title type="text">2021年终个人总结</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/3117/" />
             <id>https://hugo.ll.sc.cn/posts/3117/</id>
-            <updated>2022-11-25T06:59:04&#43;00:00</updated>
+            <updated>2022-12-30T03:04:48&#43;00:00</updated>
             <published>2022-01-12T14:00:03&#43;00:00</published>
             <author>
                     <name>守正</name>
