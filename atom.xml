@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">雷雷笔记</title>
     <subtitle type="html">个人笔记，用于记录生活、学习、工作。</subtitle>
-    <updated>2023-01-06T09:43:31&#43;00:00</updated>
+    <updated>2023-01-11T05:41:35&#43;00:00</updated>
     <id>https://hugo.ll.sc.cn/</id>
     <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/" />
     <link rel="self" type="application/atom&#43;xml" href="https://hugo.ll.sc.cn/atom.xml" />
@@ -17,13 +17,85 @@
     <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
         <entry>
+            <title type="text">我们都是普通人，不要太苛责自己</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/0a0e/" />
+            <id>https://hugo.ll.sc.cn/posts/0a0e/</id>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
+            <published>2023-01-11T13:18:55&#43;08:00</published>
+            
+            <summary type="html">因为喜欢就是有重量的 它在你心里绝对不是 轻飘飘的东西 们都喜欢强者 都喜欢那些 不管发生了什……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/categories/%E6%91%98%E5%BD%95/" term="摘录" label="摘录" />
+                            
+                        
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">婚姻最正的三观</title>
+            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/9e4b/" />
+            <id>https://hugo.ll.sc.cn/posts/9e4b/</id>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
+            <published>2023-01-08T16:34:16&#43;08:00</published>
+            
+            <summary type="html">结婚 我退出我的家， 你也应该退出你的家， 我们去组建一个新的家庭， 而不是我从我家退出去融……</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/categories/%E6%91%98%E5%BD%95/" term="摘录" label="摘录" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E6%83%85%E6%84%9F/" term="情感" label="情感" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E5%A9%9A%E5%A7%BB/" term="婚姻" label="婚姻" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">人情世故</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/b688/" />
             <id>https://hugo.ll.sc.cn/posts/b688/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
             <published>2023-01-05T12:28:46&#43;08:00</published>
             
-            <summary type="html">过年回老家， 有个婶婶问我一个月赚多少钱？ 我知道他的儿子过得不怎么好， 于是我就把自己说……</summary>
+            <summary type="html">过年回老家， 有个亲戚问我一个月赚多少钱？ 我知道他的儿子过得不怎么好， 于是我就把自己说……</summary>
             
             
             
@@ -49,7 +121,7 @@
             <title type="text">2022年终工作总结</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/7553/" />
             <id>https://hugo.ll.sc.cn/posts/7553/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
             <published>2022-12-30T14:19:29&#43;08:00</published>
             <author>
                     <name>守正</name>
@@ -82,7 +154,7 @@
             <title type="text">我感染奥密克戎的这些天</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/2410/" />
             <id>https://hugo.ll.sc.cn/posts/2410/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
             <published>2022-12-20T09:08:32&#43;08:00</published>
             <author>
                     <name>守正</name>
@@ -129,7 +201,7 @@
             <title type="text">异地恋</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/947e/" />
             <id>https://hugo.ll.sc.cn/posts/947e/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
             <published>2022-11-22T10:05:57&#43;08:00</published>
             
             <summary type="html">谈恋爱就应该经历一下异地恋，体验一下欣喜忧愁无人分享，欢笑落泪不能拥，抱着手机、隔着……</summary>
@@ -150,6 +222,14 @@
                     
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E6%83%85%E6%84%9F/" term="情感" label="情感" />
+                            
+                        
+                    
                 
             
         </entry>
@@ -158,7 +238,7 @@
             <title type="text">三十而立？</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/37c5/" />
             <id>https://hugo.ll.sc.cn/posts/37c5/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
             <published>2022-11-15T09:08:32&#43;08:00</published>
             <author>
                     <name>守正</name>
@@ -182,6 +262,14 @@
                         
                     
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://hugo.ll.sc.cn/tags/%E6%84%9F%E6%82%9F/" term="感悟" label="感悟" />
+                            
+                        
                     
                 
             
@@ -232,7 +320,7 @@
             <title type="text">电气知识</title>
             <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/b869/" />
             <id>https://hugo.ll.sc.cn/posts/b869/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
+            <updated>2023-01-11T05:41:34&#43;00:00</updated>
             <published>2022-11-12T19:09:35&#43;08:00</published>
             <author>
                     <name>守正</name>
@@ -303,80 +391,6 @@
                             
                             
                                 <category scheme="https://hugo.ll.sc.cn/tags/%E6%B0%B4%E7%94%B5/" term="水电" label="水电" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">Git命令笔记</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/183c/" />
-            <id>https://hugo.ll.sc.cn/posts/183c/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
-            <published>2022-01-12T14:55:23&#43;08:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入……</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">GTD时间管理</title>
-            <link rel="alternate" type="text/html" href="https://hugo.ll.sc.cn/posts/19b7/" />
-            <id>https://hugo.ll.sc.cn/posts/19b7/</id>
-            <updated>2023-01-06T09:43:30&#43;00:00</updated>
-            <published>2022-01-12T14:44:10&#43;08:00</published>
-            <author>
-                    <name>守正</name>
-                    <uri>https://ll.sc.cn</uri>
-                    <email>i@ll.sc.cn</email>
-                    </author>
-            <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html">GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox……</summary>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/" term="笔记" label="笔记" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://hugo.ll.sc.cn/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/" term="时间管理" label="时间管理" />
                             
                         
                     

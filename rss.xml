@@ -23,10 +23,82 @@
         
             <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
         
-        <lastBuildDate>Fri, 06 Jan 2023 09:43:31 &#43;0000</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 05:41:35 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://hugo.ll.sc.cn/rss.xml" />
         
+        
+            <item>
+                <title>我们都是普通人，不要太苛责自己</title>
+                <link>https://hugo.ll.sc.cn/posts/0a0e/</link>
+                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/0a0e/</guid>
+                <pubDate>Wed, 11 Jan 2023 13:18:55 &#43;0800</pubDate>
+                
+                
+                <description>因为喜欢就是有重量的 它在你心里绝对不是 轻飘飘的东西 们都喜欢强者 都喜欢那些 不管发生了什……</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/categories/%E6%91%98%E5%BD%95/">摘录</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>婚姻最正的三观</title>
+                <link>https://hugo.ll.sc.cn/posts/9e4b/</link>
+                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/9e4b/</guid>
+                <pubDate>Sun, 08 Jan 2023 16:34:16 &#43;0800</pubDate>
+                
+                
+                <description>结婚 我退出我的家， 你也应该退出你的家， 我们去组建一个新的家庭， 而不是我从我家退出去融……</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/categories/%E6%91%98%E5%BD%95/">摘录</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/tags/%E6%83%85%E6%84%9F/">情感</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/tags/%E5%A9%9A%E5%A7%BB/">婚姻</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>人情世故</title>
@@ -35,7 +107,7 @@
                 <pubDate>Thu, 05 Jan 2023 12:28:46 &#43;0800</pubDate>
                 
                 
-                <description>过年回老家， 有个婶婶问我一个月赚多少钱？ 我知道他的儿子过得不怎么好， 于是我就把自己说……</description>
+                <description>过年回老家， 有个亲戚问我一个月赚多少钱？ 我知道他的儿子过得不怎么好， 于是我就把自己说……</description>
                 
                 
                 
@@ -158,6 +230,14 @@
                         
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/tags/%E6%83%85%E6%84%9F/">情感</category>
+                                
+                            
+                        
                     
                 
             </item>
@@ -188,6 +268,14 @@
                             
                         
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://hugo.ll.sc.cn/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+                                
+                            
                         
                     
                 
@@ -303,76 +391,6 @@
                                 
                                 
                                     <category domain="https://hugo.ll.sc.cn/tags/%E6%B0%B4%E7%94%B5/">水电</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>Git命令笔记</title>
-                <link>https://hugo.ll.sc.cn/posts/183c/</link>
-                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/183c/</guid>
-                <pubDate>Wed, 12 Jan 2022 14:55:23 &#43;0800</pubDate>
-                
-                    <author>i@ll.sc.cn (守正)</author>
-                
-                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>进入项目根目录文件夹，在资源管理器上方文件路径前面输入 cmd 或者 powershell 回车进入当前目录。 输入……</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-                                
-                            
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>GTD时间管理</title>
-                <link>https://hugo.ll.sc.cn/posts/19b7/</link>
-                <guid isPermaLink="true">https://hugo.ll.sc.cn/posts/19b7/</guid>
-                <pubDate>Wed, 12 Jan 2022 14:44:10 &#43;0800</pubDate>
-                
-                    <author>i@ll.sc.cn (守正)</author>
-                
-                <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
-                <description>GTD ≠ 把事情做完； 正确的理解应该是 把你需要坐的事情列出来并处理他们； 收集箱(Inbox……</description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://hugo.ll.sc.cn/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://hugo.ll.sc.cn/tags/%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/">时间管理</category>
                                 
                             
                         
